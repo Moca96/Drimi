@@ -73,6 +73,11 @@
          "required": true,
          "value": "zadkiel_hub"
       },
+      "UPDATE_CHANNEL": {
+         "description": "Your Telegram support CHANNEL username where your users will go and bother you.",
+         "required": true,
+         "value": "Network_Zadkiel"
+      },
       "TIME_API_KEY": {
          "description": "Required for timezone information. Get yours from https://timezonedb.com/api",
          "required": false,
