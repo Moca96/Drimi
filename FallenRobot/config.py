@@ -18,6 +18,8 @@ class Config(object):
 
     SUPPORT_CHAT = "zadkiel_hub"  # Your Telegram support group chat username where your users will go and bother you
 
+    UPDATE_CHANNEL = "Network_Zadkiel"  # Your Telegram support CHANNEL username where your users will go and bother you
+
     TOKEN = ""  # Get bot token from @BotFather on Telegram
 
     TIME_API_KEY = ""  # Get this value from https://timezonedb.com/api
