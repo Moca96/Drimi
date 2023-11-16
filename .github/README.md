@@ -8,7 +8,7 @@
   <img src="https://github.com/Moca96/Drimi/blob/master/FallenRobot/resources/fglitch.gif">
 </p>
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ғᴀʟʟᴇɴ ✘ ʀᴏʙᴏᴛ](https://t.me/Drimi_Robot)**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [Drimi ✘ ʀᴏʙᴏᴛ](https://t.me/Drimi_Robot)**_
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
