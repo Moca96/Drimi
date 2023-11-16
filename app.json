@@ -51,12 +51,12 @@
       "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
          "required": true,
-         "value": ""
+         "value": "-1001982108661"
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
          "required": true,
-         "value": "-1001982108661"
+         "value": ""
       },
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
