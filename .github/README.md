@@ -5,7 +5,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://github.com/Moca96/Drimi/blob/master/FallenRobot/resources/fglitch.gif">
+  <img src="">
 </p>
 
 _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [Drimi ✘ ʀᴏʙᴏᴛ](https://t.me/Drimi_Robot)**_
