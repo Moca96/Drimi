@@ -13,6 +13,12 @@ LOGO_LINKS = [
     "https://telegra.ph/file/152e0a0a9c208950d455f.jpg",
     "https://telegra.ph/file/43957afb78ee835103139.jpg",
     "https://telegra.ph/file/8f534e09d999bbafb1c1f.jpg",
+    "https://telegra.ph/file/5003be6ac631bf2cd42b2.jpg",
+    "https://telegra.ph/file/d151d169dbc992acd8a40.jpg",
+    "https://telegra.ph/file/1c7a0c00faf6b60fbf8c9.jpg",
+    "https://telegra.ph/file/dc9a7d97525a14f97997d.jpg",
+    "https://telegra.ph/file/bf70777a9ed06625167be.jpg",
+    
 ]
 
 
