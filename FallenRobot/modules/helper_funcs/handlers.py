@@ -1,4 +1,4 @@
-from pyrate_limiter import BucketFullException, Duration, Limiter, Rate
+from pyrate_limiter import BucketFullException, Duration, Limiter, RequestRate
 from telegram import Update
 from telegram.ext import CommandHandler, Filters, MessageHandler, RegexHandler
 
@@ -124,3 +124,4 @@ class CustomMessageHandler(MessageHandler):
         def check_update(self, update):
             if isinstance(update, Update) and update.effective_message:
                 return self.filters(update)
+                
